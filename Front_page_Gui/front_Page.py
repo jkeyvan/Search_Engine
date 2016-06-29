@@ -34,6 +34,9 @@ class main_window(QtGui.QMainWindow):
                                                 "border-radius: 6px;"))
         self.pushButton.setText("Search")
 
+        self.Lable = QtGui.QLabel(self.frame)
+        self.Lable.setText("Hi")
+
 
 
 def main():
