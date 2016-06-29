@@ -2,7 +2,7 @@ import sys,os,shutil,threading,time
 from PyQt4 import QtGui,QtCore
 from setting import *
 
-#Front page
+##Front page
 
 
 class main_window(QtGui.QMainWindow):
